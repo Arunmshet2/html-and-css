@@ -1,0 +1,660 @@
+ body {
+     background-color: black;
+
+
+ }
+
+ .parent1 {
+     border: 3px solid black;
+     min-height: 2080px;
+     margin-left: 25%;
+     background-color: rgba(85, 84, 84, 0.166);
+     border-radius: 4px;
+
+
+ }
+
+ .parent2 {
+     display: flex;
+     margin-top: 20px;
+    
+ }
+
+ .class3 {
+     margin-left: 765px;
+     padding: 15px;
+     /* border:3px solid black; */
+     text-align: center;
+     width: 80px;
+     border-radius: 25px;
+     margin-right: 5px;
+     color: white;
+
+ }
+
+ .class4 {
+     padding: 15px;
+     text-align: center;
+     border: 3px solid black;
+     width: 80px;
+     border-radius: 25px;
+     background-color: white;
+     font-weight: bold;
+
+ }
+
+ .parent3 {
+     border: 0.001px solid black;
+     font-family: "Maname", serif;
+     /* border-radius: 40px; */
+     margin-top: 13px;
+     min-height: 1994px;
+     position: sticky;
+     background-color: #3434343c;
+     font-family: "Maname", serif;
+     z-index: 45;
+ }
+
+ .parent4 {
+     display: flex;
+     margin-top: 10px;
+
+ }
+
+ .class1 {
+     margin-left: 8px;
+     font-size: 30px;
+     margin-right: 850px;
+     color: white;
+     font-weight: bold;
+
+ }
+
+
+ .class2 {
+     font-size: 20px;
+     color: rgba(255, 255, 255, 0.619);
+ }
+
+ .rajwant {
+     color: white;
+     margin-bottom: 20px;
+     border: 3px solid white;
+     width: 145px;
+     height: 135px;
+     border-radius: 50%;
+     cursor: pointer;
+ }
+
+ .parent5 {
+     margin-top: 30px;
+     display: grid;
+     justify-content: center;
+     grid-template-columns: 16% 16% 16% 16% 16% 16%;
+ }
+
+ .class5 {
+     background-image: url(sonu-nigam.avif);
+     background-position: -17px 1px;
+     background-size: 177px;
+     background-repeat: no-repeat;
+ }
+
+ .class6 {
+     background-image: url(shreya\ ghosal.jpeg);
+     background-position: 0px -12px;
+     background-size: 145px;
+     background-repeat: no-repeat;
+ }
+
+ .class7 {
+     background-image: url(arjith\ singh.jpeg);
+     background-position: -5px -12px;
+     background-size: 150px;
+     background-repeat: no-repeat;
+ }
+
+ .class8 {
+     background-image: url(anirudh\ ravichandra.jpeg);
+     background-position: 0px -5px;
+     background-size: 149px;
+     background-repeat: no-repeat;
+ }
+
+ .class9 {
+     background-image: url(atif\ alsam.jpeg);
+     background-position: 0px -12px;
+     background-size: 145px;
+     background-repeat: no-repeat;
+ }
+
+ .class10 {
+     background-image: url(Pritam.jpeg);
+     background-position: -2px -2px;
+     background-size: 148px;
+     background-repeat: no-repeat;
+ }
+
+ .luffy {
+     margin-top: 145px;
+     text-align: center;
+ }
+
+ .luffy1 {
+     text-align: center;
+ }
+
+ .parent7 {
+     margin-top: 76px;
+     display: flex;
+
+ }
+
+ .class23 {
+     color: white;
+     margin-left: 8px;
+     font-size: 30px;
+     font-weight: bold;
+     margin-right: 828px;
+
+ }
+
+ .class24 {
+     font-size: 20px;
+     color: rgba(255, 255, 255, 0.619);
+ }
+ .name1 {
+     font-size: 20px;
+     color: rgba(255, 255, 255, 0.619);
+     margin-top: 10px;
+     margin-left: 10px;
+ }
+ .name2 {
+     font-size: 20px;
+     color: rgba(255, 255, 255, 0.619);
+     margin-top: 10px;
+     margin-left: 48px;
+ }
+ .name3 {
+     font-size: 20px;
+     color: rgba(255, 255, 255, 0.619);
+     margin-top: 10px;
+     margin-left: 14px;
+ }
+
+ .parent8 {
+     display: grid;
+     grid-template-columns: 16% 16% 16% 16% 16% 16%;
+     justify-content: center;
+     margin-top: 40px;
+ }
+
+
+ .zoro {
+     border: 3px solid white;
+     width: 154px;
+     height: 134px;
+     border-radius: 4px;
+     cursor: pointer;
+ }
+
+ .class30 {
+     background-image: url(galipata.jpeg);
+     background-repeat: no-repeat;
+     background-position: -11px -14px;
+     background-size: 164px;
+ }
+
+ .class29 {
+     background-image: url(jawam.jpeg);
+     background-repeat: no-repeat;
+     background-position: 1px -10px;
+     background-size: 153px;
+ }
+
+ .class28 {
+     background-image: url(animal.jpeg);
+     background-repeat: no-repeat;
+     background-position: 1px -4px;
+     background-size: 153px;
+ }
+
+ .class27 {
+     background-image: url(pk.jpeg);
+     background-repeat: no-repeat;
+     background-position: 1px -10px;
+     background-size: 153px;
+ }
+
+ .class26 {
+     background-image: url(kirik\ party.jpeg);
+     background-repeat: no-repeat;
+     background-position: 0px -10px;
+     background-size: 155px;
+ }
+
+ .class25 {
+     background-image: url(idoits.jpeg);
+     background-repeat: no-repeat;
+     background-position: -2px -4px;
+     background-size: 163px;
+ }
+
+ .class31 {
+     margin-top: 145px;
+     text-align: center;
+     color: white;
+    
+ }
+
+ .luffy1 {
+     text-align: center;
+ }
+
+
+
+ .class32 {
+     color: rgba(255, 255, 255, 0.619);
+     text-align: center;
+     
+ }
+
+ .class33 {
+     color: rgba(255, 255, 255, 0.619);
+     text-align: center;
+
+ }
+
+ .nami {
+     margin-top: 120px;
+ }
+
+ .class34 {
+     background-image: url(sp\ sumbramanya.jpeg);
+     background-repeat: no-repeat;
+     background-position: -2px -4px;
+     background-size: 163px;
+ }
+
+ .class35 {
+     background-image: url(illayraja.jpeg);
+     background-repeat: no-repeat;
+     background-position: -2px -4px;
+     background-size: 163px;
+ }
+
+ .class36 {
+     background-image: url(ar\ rehman.jpeg);
+     background-repeat: no-repeat;
+     background-position: -2px -4px;
+     background-size: 163px;
+ }
+
+ .class37 {
+     background-image: url(la.jpeg);
+     background-repeat: no-repeat;
+     background-position: 0px -4px;
+     background-size: 154px;
+ }
+
+ .class38 {
+     background-image: url(dijith.jpeg);
+     background-repeat: no-repeat;
+     background-position: -2px -4px;
+     background-size: 163px;
+ }
+
+ .class39 {
+     background-image: url(udit\ narayana.jpeg);
+     background-repeat: no-repeat;
+     background-position: -32px -4px;
+     background-size: 183px;
+ }
+
+ .class40 {
+     color: white;
+     text-overflow: ellipsis;
+     white-space: nowrap;
+     margin-top: 145px;
+     text-align: center;
+
+ }
+
+ .robin1 {
+     color: rgba(255, 255, 255, 0.619);
+     text-align: center;
+ }
+
+ .robin {
+     margin-top: 145px;
+     text-align: center;
+     color: white;
+
+ }
+
+ .class57 {
+     text-overflow: ellipsis;
+     white-space: nowrap;
+ }
+
+ .class58 {
+     color: white;
+     margin-left: 8px;
+     font-size: 30px;
+     font-weight: bold;
+     margin-right: 767px;
+
+ }
+
+ .class59 {
+     font-size: 20px;
+     color: rgba(255, 255, 255, 0.619);
+ }
+
+ .class79 {
+     background-image: url(thousand\ sons.jpeg);
+     background-repeat: no-repeat;
+     background-position: -2px 3px;
+     background-size: 154px;
+ }
+
+ .class80 {
+     background-image: url(bhagavadgita.jpeg);
+     background-repeat: no-repeat;
+     background-position: -2px -4px;
+     background-size: 163px;
+ }
+
+ .class81 {
+     background-image: url(SEE.jpeg);
+     background-repeat: no-repeat;
+     background-position: 0px -56px;
+     background-size: 155px;
+ }
+
+ .class82 {
+     background-image: url(Ramayana.jpeg);
+     background-repeat: no-repeat;
+     background-position: -2px -50px;
+     background-size: 154px;
+ }
+
+ .class83 {
+     background-image: url(r.jpeg);
+     background-repeat: no-repeat;
+     background-position: -2px -40px;
+     background-size: 163px;
+ }
+
+ .class84 {
+     background-image: url(mahabharat.jpeg);
+     background-repeat: no-repeat;
+     background-position: -2px -4px;
+     background-size: 154px;
+ }
+
+ .class74 {
+     text-overflow: ellipsis;
+     white-space: nowrap;
+ }
+
+ .parent10 {
+     margin-top: 150px;
+     margin-left: 20px;
+     display: grid;
+     grid-template-columns: 20% 20% 20% 20% 20%;
+     justify-items: center;
+ }
+
+ .parent11 {
+     font-family: "Maname", serif;
+     border: 3px solid rgba(0, 0, 0, 0.686);
+     width: 364px;
+     height: 180px;
+     margin-top: -2084px;
+     border-radius: 4px;
+     background-color: rgba(85, 84, 84, 0.166);
+     position: fixed;
+     font-family: "Noto Serif JP", serif;
+ }
+
+ .child3 {
+     color: rgba(255, 255, 255, 0.619);
+ }
+
+ .ka {
+
+     width: 129px;
+     height: 37px;
+     margin-top: 17px;
+     margin-left: 29px;
+
+
+ }
+
+
+ .child1 {
+     margin-right: 10px;
+ }
+
+ .ax {
+     margin-top: 22px;
+     margin-left: 29px;
+ }
+
+ .child4 {
+     margin-top: 18px;
+     margin-left: 29px;
+ }
+
+ .class105 {
+     position: relative;
+     top: -6px;
+     left: 10px;
+     font-size: 20px;
+     color: white;
+ }
+
+ .class106 {
+     position: relative;
+     top: -6px;
+     left: 10px;
+     font-size: 20px;
+     color: white;
+ }
+
+ .parent12 {
+     font-family: "Maname", serif;
+     border: 3px solid black;
+     border-radius: 4px;
+     width: 365px;
+     height: 1756px;
+     margin-top: -1896px;
+     position: fixed;
+     background-color: rgba(85, 84, 84, 0.166);
+     font-family: "Noto Serif JP", serif;
+
+
+ }
+
+ .parent13 {
+     display: flex;
+     margin-top: 10px;
+ }
+
+ .child5 {
+     margin-left: 21px;
+ }
+
+ .child6 {
+     margin-left: 5px;
+     margin-right: 176px;
+     color: rgba(255, 255, 255, 0.619);
+     margin-top: 3px;
+ }
+
+ .child7 {
+     margin-top: 0px;
+ }
+
+ .parent14 {
+
+     width: 353px;
+     height: 159px;
+     border-radius: 6px;
+     background-color: #3434343c;
+     margin-top: 46px;
+     margin-left: 5px;
+ }
+
+ .child8 {
+     color: white;
+     font-size: 18px;
+     position: relative;
+     top: 12px;
+     left: 23px;
+
+
+ }
+
+ .child9 {
+     color: white;
+     font-size: 12px;
+     position: relative;
+     top: 20px;
+     left: 23px;
+
+
+ }
+
+ .child10 {
+     border: 3px solid black;
+     width: 159px;
+     height: 34px;
+     border-radius: 30px;
+     position: relative;
+     top: 46px;
+     left: 23px;
+     background-color: white;
+     color: black;
+     text-align: center;
+     padding-top: 3px;
+     padding-bottom: -1px;
+     font-weight: bold;
+ }
+
+ .child11 {
+     background-image: url(global.png);
+     background-repeat: no-repeat;
+     background-position: 0px -1px;
+     background-size: 164px;
+ }
+
+ .child12 {
+     background-image: url(russia.jpeg);
+     background-repeat: no-repeat;
+     background-position: 0px -1px;
+     background-size: 164px;
+ }
+
+ .child13 {
+     background-image: url(usamusic.jpeg);
+     background-repeat: no-repeat;
+     background-position: 0px -1px;
+     background-size: 160px;
+ }
+
+ .child14 {
+     background-image: url(japan.png);
+     background-repeat: no-repeat;
+     background-position: -4px -1px;
+     background-size: 164px;
+ }
+
+ .child15 {
+     background-image: url(china.jpeg);
+     background-repeat: no-repeat;
+     background-position: 0px -1px;
+     background-size: 164px;
+ }
+
+ .child16 {
+     background-image: url(frenchsong.jpeg);
+     background-repeat: no-repeat;
+     background-position: -5px -1px;
+     background-size: 159px;
+ }
+
+ .child20{
+    color: white;
+ }
+ .child21{
+    margin-top: 10px;
+    color:rgba(255, 255, 255, 0.619)
+ }
+
+ .child28{
+    width:38px;
+    height:33px;
+    margin-top: 3px;
+    margin-left: 10px;
+ }
+ .child29{
+    width:38px;
+    height:31px;
+    margin-top: -6px;
+    margin-left: 6px;
+ }
+ .child30{
+    width:37px;
+    height:38px;
+
+ }
+ .child33{
+    width:37px;
+    height:38px;
+
+ }
+ .child31{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+ }
+
+
+ .child34{
+    margin-top: 67px;
+    margin-left: 10px;
+    border: 0.1px solid rgba(255, 255, 255, 0.619);
+    width: 1096px;
+ }
+
+ .child35{
+    color: rgba(255, 255, 255, 0.619);
+    margin-top: 26px;
+    margin-left: 10px;
+ }
+
+ .shanks1{
+    border: 3px solid white;
+    width:auto;
+    height: 345px;
+    
+}
+.shanks2{
+    border: 3px solid white;
+    width: auto;
+    height: 546px;
+}
+.shanks4{
+    color: white;
+}
+
+.shanks5{
+    width: 750px;
+    height: 450px;
+    border-radius: 30px;
+    border:3px solid white;
+}
+
+
+ 
